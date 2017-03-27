@@ -1,0 +1,13 @@
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\bin\Debug\Flaggtest design.exe.config
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\bin\Debug\Flaggtest design.exe
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\bin\Debug\Flaggtest design.pdb
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest design.csprojResolveAssemblyReference.cache
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Form1.resources
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Properties.Resources.resources
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest design.csproj.GenerateResource.Cache
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest design.exe
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest design.pdb
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Form2.resources
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Europa_Lett.resources
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Europa_Middel.resources
+C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Europa_Vanskelig.resources
