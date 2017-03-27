@@ -11,3 +11,6 @@ C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_
 C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Europa_Lett.resources
 C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Europa_Middel.resources
 C:\Users\Peder\Desktop\IT\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest_design.Europa_Vanskelig.resources
+C:\Users\Petter Pedersen\Documents\GitHub\Flaggapplikasjon\Flaggtest design\Flaggtest design\bin\Debug\Flaggtest design.exe.config
+C:\Users\Petter Pedersen\Documents\GitHub\Flaggapplikasjon\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest design.exe
+C:\Users\Petter Pedersen\Documents\GitHub\Flaggapplikasjon\Flaggtest design\Flaggtest design\obj\Debug\Flaggtest design.pdb

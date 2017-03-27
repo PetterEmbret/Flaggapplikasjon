@@ -18,7 +18,9 @@ namespace Flaggtest_design
         {
             InitializeComponent();
         }
-
+        /*
+         * Petter har kommentert dette
+         */
         private void button1_Click(object sender, EventArgs e)
         {
 
