@@ -11,7 +11,7 @@ using System.IO;
 
 namespace Flaggtest_design
 {
-    class Petter
+   /* class Petter
     {
         private void buttonsjekksvar_click(object sender, EventArgs e)
             if (pictureBox1.Bounds.IntersectsWith(label1.Bounds))
@@ -38,5 +38,5 @@ namespace Flaggtest_design
             label5.BackColor = System.Drawing.Color.Chartreuse;
             else
             label5.BackColor = System.Drawing.Color.OrangeRed;
-    }
+    }*/
 }
